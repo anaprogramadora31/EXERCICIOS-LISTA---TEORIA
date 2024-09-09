@@ -1,7 +1,6 @@
 //Exercicio 2
 //J)
 
-j)
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
